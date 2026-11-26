@@ -1,0 +1,23 @@
+name: Idea or suggestion · 建议
+description: Suggest an improvement — copy, design, a feature, anything.
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea · 你的建议
+      description: What would you like to see, and why would it help people?
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example or sketch · 示例
+      description: Optional — wording, a screenshot, a drawing, a link.
+  - type: checkboxes
+    id: charter
+    attributes:
+      label: Charter
+      options:
+        - label: This idea keeps membership free, voluntary and non-judgmental.
+          required: true

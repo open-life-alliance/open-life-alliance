@@ -1,0 +1,25 @@
+name: Translation · 翻译
+description: Offer to translate the site into a new language, or fix a translation.
+labels: ["translation"]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language · 语言
+      placeholder: "e.g. Español (es), 日本語 (ja), 繁體中文 (zh-Hant)"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type · 类型
+      options:
+        - I want to add this language
+        - I want to fix an existing translation
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details · 说明
+      description: For fixes, quote the current text and your suggestion. See CONTRIBUTING.md for how to add a language.

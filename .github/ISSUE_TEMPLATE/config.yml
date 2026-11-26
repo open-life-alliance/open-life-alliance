@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read how the project is run
+    url: https://github.com/open-life-alliance/open-life-alliance/blob/main/GOVERNANCE.md
+    about: How suggestions are reviewed and how changes get published.

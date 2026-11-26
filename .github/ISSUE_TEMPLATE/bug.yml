@@ -1,0 +1,28 @@
+name: Something is broken · 问题反馈
+description: A page, the join form or the card maker does not work as expected.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened? · 发生了什么
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser · 设备和浏览器
+      placeholder: "e.g. iPhone 14, Safari / Android, WeChat in-app browser"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page · 页面
+      placeholder: "e.g. /en/card/"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot · 截图
+      description: Optional. Please hide any personal information.

@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Open Life Alliance — Your life. Your choice.",
+    "description": "Healthier habits, at your own pace. Join free in 30 seconds and get a personal card to share.",
+    "orgName": "Open Life Alliance"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "join": "Join free",
+    "myCard": "My card",
+    "github": "GitHub",
+    "language": "Language",
+    "menu": "Menu",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "An open, people-powered movement",
+    "title": "Your life. Your choice.",
+    "subtitle": "Healthier habits, at your own pace.",
+    "body": "Sleeping earlier, moving more, drinking less — or any small habit you want to keep. Here every healthy choice is respected, at the dinner table and at work, and you never need to explain it.",
+    "ctaJoin": "Join free — get your card",
+    "ctaExplore": "What we stand for",
+    "note": "30 seconds · No sign-up · No real name"
+  },
+  "mission": {
+    "eyebrow": "What we believe",
+    "title": "Every choice deserves respect.",
+    "items": [
+      {
+        "title": "Freedom of choice",
+        "body": "How you live is yours to decide. At the dinner table or at work, your choice deserves respect."
+      },
+      {
+        "title": "Healthy living",
+        "body": "Sleep a little earlier, walk a little more, drink a little less. Small changes count — at your own pace."
+      },
+      {
+        "title": "Mutual respect",
+        "body": "We respect everyone's choices, and hope ours are respected too. No judging here — only encouragement."
+      }
+    ]
+  },
+  "principles": {
+    "eyebrow": "Our principles",
+    "title": "Four simple ideas",
+    "items": [
+      {
+        "title": "Smoke-free living",
+        "body": "Fresh air, easy breathing — and a simple “no thanks” whenever you want."
+      },
+      {
+        "title": "Alcohol-free living",
+        "body": "Celebrate, connect and do business — a cup of tea works just as well."
+      },
+      {
+        "title": "Personal freedom",
+        "body": "Join freely, leave freely. No perfection required, and no one checking up on you."
+      },
+      {
+        "title": "Respect for everyone",
+        "body": "No judging, no preaching. Kindness comes first."
+      }
+    ]
+  },
+  "membership": {
+    "eyebrow": "Your card",
+    "title": "Show your choice.",
+    "body": "Pick the way you want to live — alcohol-free, early nights, running, or a goal of your own — and get a personal card to share. Your post might encourage someone who wants the same.",
+    "points": [
+      "Free, forever — no payment, ever",
+      "A nickname is enough — no sign-up, no real name",
+      "Your details stay on your own device"
+    ],
+    "cta": "Make my card",
+    "sampleName": "Alex Rivera"
+  },
+  "community": {
+    "eyebrow": "Community",
+    "title": "This belongs to everyone",
+    "body": "Open Life Alliance is open source. The website, the designs, the words — all made by volunteers around the world. Anyone can suggest ideas, translate, or write code.",
+    "items": [
+      {
+        "title": "Translate",
+        "body": "Bring the alliance to your language. Each language is a single file."
+      },
+      {
+        "title": "Build",
+        "body": "Improve the website and card maker on GitHub."
+      },
+      {
+        "title": "Design",
+        "body": "Create new card styles, illustrations and layouts."
+      },
+      {
+        "title": "Spread the word",
+        "body": "Share your card. One post might encourage someone near you to start too."
+      }
+    ],
+    "cta": "Get involved on GitHub"
+  },
+  "support": {
+    "eyebrow": "Support the mission",
+    "title": "The best support? Bring a friend.",
+    "body": "We don't take donations, and we will never sell membership. If you believe in this, share your card or invite one friend to join. If we ever accept voluntary support, we will publish exactly where every cent goes.",
+    "cta": "Follow the project on GitHub"
+  },
+  "disclaimer": "Open Life Alliance is an independent, community-driven initiative. Membership represents voluntary support for its principles and does not constitute government, medical, religious, or legal certification.",
+  "footer": {
+    "tagline": "Live free. Live well.",
+    "about": "About",
+    "mission": "Our mission",
+    "membership": "Membership",
+    "github": "GitHub",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "license": "Code under MIT. Content under CC BY 4.0. The name and logo are governed by our brand guidelines.",
+    "sections": {
+      "explore": "Explore",
+      "project": "Project",
+      "legal": "Legal"
+    }
+  },
+  "join": {
+    "title": "Join Open Life Alliance",
+    "subtitle": "30 seconds to your own card. No sign-up, no real name.",
+    "nameLabel": "Display name",
+    "namePlaceholder": "A nickname is perfect",
+    "nameHelp": "This is printed on your card. You can change it any time.",
+    "nameRequired": "Please enter a display name.",
+    "nameTooLong": "Please keep it under {max} characters.",
+    "countryLabel": "Country or region",
+    "optional": "optional",
+    "countryNone": "Prefer not to say",
+    "declarationTitle": "Member declaration",
+    "declaration": "I support personal freedom, healthier living, and the right of everyone to make their own choices.",
+    "consent": "I voluntarily support the mission and principles of Open Life Alliance.",
+    "consentRequired": "Please tick the box to continue.",
+    "submit": "Join & make my card",
+    "privacyNote": "Your details are saved only in this browser. We do not have a server that stores them.",
+    "privacyLink": "Read our privacy policy"
+  },
+  "commitments": {
+    "smokeFree": "Smoke-free",
+    "alcoholFree": "Alcohol-free",
+    "earlySleep": "Early to bed",
+    "running": "Running",
+    "workout": "Regular exercise",
+    "healthyEating": "Healthy eating",
+    "lessSugar": "Less sugar",
+    "lessScreen": "Less screen time",
+    "reading": "Reading",
+    "meditation": "Meditation"
+  },
+  "lifestyle": {
+    "label": "Choose the way you want to live",
+    "help": "Pick any, or write your own. These are personal intentions, not claims — you do not need to have achieved them.",
+    "customPlaceholder": "Write your own, e.g. 10,000 steps a day",
+    "add": "Add",
+    "remove": "Remove {label}",
+    "limit": "Up to {max} choices fit on one card.",
+    "periodLabel": "Time frame",
+    "periodHelp": "A goal you set for yourself. Nobody checks it.",
+    "periodNone": "No time frame",
+    "periodOngoing": "Ongoing",
+    "periodDays": "{days, plural, one {# day} other {# days}}",
+    "periodYear": "1 year",
+    "periodCustom": "Custom",
+    "periodCustomDays": "Number of days",
+    "periodStart": "Starting"
+  },
+  "studio": {
+    "welcomeTitle": "Welcome aboard!",
+    "welcomeSubtitle": "Your choice starts today — and now it shows.",
+    "title": "Your card",
+    "subtitle": "Pick a style, make it yours, and share it.",
+    "memberId": "Member ID",
+    "memberSince": "Member since",
+    "displayName": "Display name",
+    "styleLabel": "Style",
+    "templates": {
+      "classic": {
+        "name": "Classic",
+        "desc": "Formal certificate"
+      },
+      "badge": {
+        "name": "Badge",
+        "desc": "Made for social media"
+      },
+      "commitment": {
+        "name": "Commitment",
+        "desc": "Your personal pledge"
+      }
+    },
+    "formatLabel": "Size",
+    "formats": {
+      "certificate": "A4 print",
+      "square": "Square 1:1",
+      "portrait": "Portrait 4:5",
+      "landscape": "Wide 1.91:1",
+      "story": "Story 9:16"
+    },
+    "formatHints": {
+      "certificate": "High resolution, for printing",
+      "square": "Instagram, WeChat Moments",
+      "portrait": "Instagram feed",
+      "landscape": "X, Facebook, LinkedIn",
+      "story": "Stories, Status"
+    },
+    "cardLanguage": "Card language",
+    "customize": "Personalize",
+    "statementLabel": "Your statement",
+    "statementHelp": "Shown on the Commitment card. Leave empty to use the default.",
+    "rendering": "Drawing your card…",
+    "renderError": "Sorry, your card could not be drawn. Please reload the page and try again.",
+    "previewAlt": "Your Open Life Alliance card",
+    "download": "Download PNG",
+    "share": "Share",
+    "copyText": "Copy share text",
+    "copied": "Copied!",
+    "shareTextLabel": "Share text",
+    "shareFailed": "Sharing was cancelled or is not supported here. You can download the image instead.",
+    "wechatHint": "In WeChat: press and hold the image to save it, then post it to Moments.",
+    "longPressHint": "Tip: on a phone you can also press and hold the image to save it.",
+    "selfDeclared": "Your member ID was created on this device. It is a self-declared digital membership, not a record verified by a server.",
+    "forget": "Remove my data from this device",
+    "forgetConfirm": "This deletes your membership details from this browser. Images you already downloaded are not affected. Continue?",
+    "noMemberTitle": "You have not joined yet",
+    "noMemberBody": "Joining is free and takes less than a minute.",
+    "noMemberCta": "Join now",
+    "headlineLabel": "Headline"
+  },
+  "card": {
+    "orgName": "OPEN LIFE ALLIANCE",
+    "orgLocalName": "",
+    "classic": {
+      "title": "CERTIFICATE OF MEMBERSHIP",
+      "recognizes": "This certificate recognizes that",
+      "joined": "has voluntarily joined",
+      "supports": "and supports the principles of personal freedom, healthier living, and mutual respect.",
+      "memberId": "MEMBER ID",
+      "since": "MEMBER SINCE"
+    },
+    "badge": {
+      "pressureFree": "AT MY OWN PACE",
+      "member": "OPEN LIFE ALLIANCE MEMBER",
+      "headlines": [
+        "I choose a better life.",
+        "My life. My choice.",
+        "A little better every day.",
+        "Caring for myself is my choice.",
+        "Small steps, better days."
+      ]
+    },
+    "commitment": {
+      "title": "MY PERSONAL COMMITMENT",
+      "defaultStatement": "At my own pace, on my own terms — one small step at a time.",
+      "supported": "Supported by Open Life Alliance",
+      "note": "A personal intention — not a claim of achievement."
+    },
+    "commitmentsShort": {
+      "smokeFree": "SMOKE-FREE",
+      "alcoholFree": "ALCOHOL-FREE",
+      "earlySleep": "EARLY TO BED",
+      "running": "RUNNING",
+      "workout": "EXERCISE",
+      "healthyEating": "EAT WELL",
+      "lessSugar": "LESS SUGAR",
+      "lessScreen": "LESS SCREEN",
+      "reading": "READING",
+      "meditation": "MEDITATION"
+    },
+    "period": {
+      "days": "{days, plural, one {# day} other {# days}}",
+      "fixed": "{days} · {range}",
+      "since": "Since {date}"
+    },
+    "scan": "Get yours free",
+    "disclaimer": "An expression of personal commitment, not an official government, medical, or religious certification."
+  },
+  "share": {
+    "title": "I joined Open Life Alliance",
+    "variants": {
+      "joined": "I just joined Open Life Alliance 🌿 — a global community for healthier living, at your own pace.\n\nYour life. Your choice. Get your free card in 30 seconds 👉 {url}\n\n#OpenLifeAlliance #YourLifeYourChoice",
+      "smokeAlcoholFree": "Starting today, I'm choosing smoke-free and alcohol-free.\nNot because anyone told me to — because it's how I want to live.\n\nWho's with me? 👉 {url}\n\n#OpenLifeAlliance",
+      "choice": "Healthy living should always be your own choice — and every choice deserves respect.\n\nI support Open Life Alliance 👉 {url}\n\n#OpenLifeAlliance #YourLifeYourChoice",
+      "myChoices": "My new habits: {list}.{period}\n\nAt my own pace, a little better every day. Anyone want to join me? 🙋\n👉 {url}\n\n#OpenLifeAlliance #YourLifeYourChoice"
+    }
+  },
+  "about": {
+    "title": "About Open Life Alliance",
+    "lead": "Open Life Alliance is an open, voluntary, community-built initiative. We stand for everyone's right to choose a healthier way of life, at their own pace — and for respect toward everyone, whatever they choose.",
+    "whyTitle": "Why we exist",
+    "why": "In many workplaces and social circles, drinking and smoking are treated as obligations: a way to close a deal, show loyalty or fit in. Many people quietly wish it were different. We want to make it easier to say \"no, thank you\" — and to show that you are far from alone.",
+    "isTitle": "What we are",
+    "is": [
+      "A shared statement of values anyone can join for free",
+      "An open-source project anyone can improve",
+      "A community that celebrates healthier choices without judgment"
+    ],
+    "isNotTitle": "What we are not",
+    "isNot": [
+      "Not a religion, a political party or a medical service",
+      "Not a registered charity or international organization (yet)",
+      "Not a program that checks, scores or polices anyone's life"
+    ],
+    "statusTitle": "Legal status",
+    "status": "Open Life Alliance is currently an independent community project, not a registered legal entity. We will publish any change to this status openly.",
+    "joinFreely": "Anyone may join and anyone may leave, at any time, with no questions asked."
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Last updated: {date}",
+    "sections": [
+      {
+        "title": "The short version",
+        "body": "We do not run a membership database. When you join, your display name, optional country, choices and member ID are saved only in your own browser (localStorage). Your card is drawn on your device. Nothing is sent to us."
+      },
+      {
+        "title": "What we store, and where",
+        "body": "Your browser stores your membership details so you can come back to your card. You can delete them at any time with \"Remove my data from this device\" on your card page, or by clearing your browser's site data."
+      },
+      {
+        "title": "What we do not do",
+        "body": "We do not ask for your real name, email, phone number or health records. We do not sell or share personal information. We do not use advertising trackers."
+      },
+      {
+        "title": "Hosting",
+        "body": "Like every website, our hosting provider may keep standard technical logs (such as IP address and browser type) for security. These are not linked to your membership."
+      },
+      {
+        "title": "Sharing",
+        "body": "Images you download or share are yours. Once you post them publicly, they are visible to anyone who can see your post."
+      },
+      {
+        "title": "Changes",
+        "body": "If a future version adds accounts or online features, we will update this policy before launching them and ask for your consent where needed."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of use",
+    "updated": "Last updated: {date}",
+    "sections": [
+      {
+        "title": "Voluntary membership",
+        "body": "Membership is free and voluntary. It expresses support for our principles. It does not require you to have quit smoking or drinking, and it does not ask you to promise that you never will."
+      },
+      {
+        "title": "Not a certification",
+        "body": "Membership cards and certificates are personal expressions of commitment. They are not government, medical, religious or legal certifications, and they do not give any legal exemption at work or anywhere else."
+      },
+      {
+        "title": "Self-declared member IDs",
+        "body": "In this version, member IDs are generated on your device and are not verified by a server. They cannot be used to prove official status."
+      },
+      {
+        "title": "Your content",
+        "body": "You are responsible for the display name and statement you put on your card. Please do not impersonate others or use offensive content."
+      },
+      {
+        "title": "Name and logo",
+        "body": "The source code is open (MIT) and our written content is shared under CC BY 4.0. The Open Life Alliance name and logo are not licensed for use in ways that suggest you speak officially for the alliance."
+      },
+      {
+        "title": "No warranty",
+        "body": "The website is provided as is, by volunteers, without warranty of any kind."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This page does not exist — but your choices still do.",
+    "home": "Back to home"
+  }
+}
