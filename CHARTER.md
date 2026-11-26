@@ -28,7 +28,9 @@ choices.
 
 ## 5. Membership
 
-- Membership is free, forever. It is never tied to payment, donations or purchases.
+- Joining is free. Membership never depends on payment, donations or purchases. Any paid
+  extras the Alliance may offer later (for example special badge designs or merchandise) are
+  optional and are never a condition for joining.
 - Anyone may join with a display name of their choosing; real names are not required.
 - Joining expresses support for the principles. It does **not** claim that a member has quit,
   or will never smoke or drink.
@@ -48,8 +50,11 @@ Decisions about the project are discussed in public on GitHub.
 
 ## 8. Money
 
-The Alliance does not currently accept donations. If it ever does, it will first publish who
-receives the funds, how they are used, its refund policy, and regular financial reports.
+The Alliance does not currently accept donations or sell anything. It may later welcome
+voluntary donations or offer optional paid extras, such as special badge designs and
+merchandise, to fund the website and outreach. Before any money is accepted, the Alliance will
+publish who receives the funds, how they are used, its refund policy, and the relevant tax
+information, and it will then report income and spending openly.
 
 ## 9. Changes to this charter
 

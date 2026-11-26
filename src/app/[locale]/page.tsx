@@ -3,17 +3,13 @@ import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import {
   ArrowRight,
-  CigaretteOff,
   Code,
   Compass,
-  HandHeart,
   Languages,
   Megaphone,
   Palette,
   Sprout,
-  Unlock,
   Users,
-  WineOff,
   Check,
 } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -30,7 +26,6 @@ export default function HomePage({ params }: { params: Promise<{ locale: string 
   const t = useTranslations();
 
   const missionIcons = [Compass, Sprout, Users];
-  const principleIcons = [CigaretteOff, WineOff, Unlock, HandHeart];
   const communityIcons = [Languages, Code, Palette, Megaphone];
 
   return (
@@ -87,32 +82,8 @@ export default function HomePage({ params }: { params: Promise<{ locale: string 
         </div>
       </section>
 
-      {/* Principles */}
-      <section className="bg-white py-16 sm:py-24">
-        <div className="container-page">
-          <p className="eyebrow">{t("principles.eyebrow")}</p>
-          <h2 className="mt-3 font-serif text-3xl font-semibold text-navy sm:text-5xl">{t("principles.title")}</h2>
-          <div className="mt-10 grid gap-x-8 gap-y-8 sm:grid-cols-2">
-            {(t.raw("principles.items") as Item[]).map((item, i) => {
-              const Icon = principleIcons[i] ?? Compass;
-              return (
-                <div key={item.title} className="flex gap-4">
-                  <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-forest/10">
-                    <Icon className="h-6 w-6 text-forest" aria-hidden />
-                  </span>
-                  <div>
-                    <h3 className="text-lg font-bold text-navy">{item.title}</h3>
-                    <p className="mt-1 leading-relaxed text-muted">{item.body}</p>
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-      </section>
-
       {/* Become a member */}
-      <section className="py-16 sm:py-24">
+      <section className="bg-white py-16 sm:py-24">
         <div className="container-page grid items-center gap-10 lg:grid-cols-2">
           <div className="order-2 lg:order-1">
             <SampleCard template="classic" format="landscape" />
@@ -147,11 +118,11 @@ export default function HomePage({ params }: { params: Promise<{ locale: string 
             {t("community.title")}
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-white/80">{t("community.body")}</p>
-          <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-8 grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-4">
             {(t.raw("community.items") as Item[]).map((item, i) => {
               const Icon = communityIcons[i] ?? Compass;
               return (
-                <div key={item.title} className="rounded-2xl bg-white/[0.07] p-5 ring-1 ring-white/10">
+                <div key={item.title} className="rounded-2xl bg-white/[0.07] p-4 ring-1 ring-white/10 sm:p-5">
                   <Icon className="h-6 w-6 text-gold-soft" aria-hidden />
                   <h3 className="mt-3 font-bold">{item.title}</h3>
                   <p className="mt-1 text-sm leading-relaxed text-white/75">{item.body}</p>

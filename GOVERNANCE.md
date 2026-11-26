@@ -37,14 +37,15 @@ fork / branch  ──►   pull request opened   ──►     CI: translations,
 ## Decisions
 
 - Everyday changes are decided in the pull request.
-- Larger changes (new features, the charter, the name or logo, anything involving money or
-  personal data) start as an issue or discussion so the community can weigh in first.
+- Larger changes (new features, the charter, the name or logo, anything involving money —
+  donations, paid badges, merchandise — or personal data) start as an issue or discussion so
+  the community can weigh in first.
 - The founder makes the final decision while the project is young. The long-term goal
   (see [docs/ROADMAP.md](docs/ROADMAP.md), V4) is open, community-based governance.
 
 ## What we will always refuse
 
-Changes that break the [Charter](CHARTER.md): paid membership, selling personal data,
+Changes that break the [Charter](CHARTER.md): making membership depend on payment, selling personal data,
 presenting membership as a medical, religious, legal or government certification, or
 pressuring anyone about how they live.
 
