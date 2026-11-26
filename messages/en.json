@@ -18,7 +18,7 @@
     "eyebrow": "An open, people-powered movement",
     "title": "Your life. Your choice.",
     "subtitle": "Healthier habits, at your own pace.",
-    "body": "Sleeping earlier, moving more, drinking less — or any small habit you want to keep. Here every healthy choice is respected, at the dinner table and at work, and you never need to explain it.",
+    "body": "Sleep earlier, move more, drink less — every healthy choice deserves respect.",
     "ctaJoin": "Join free — get your card",
     "ctaExplore": "What we stand for",
     "note": "30 seconds · No sign-up · No real name"
@@ -29,15 +29,15 @@
     "items": [
       {
         "title": "Freedom of choice",
-        "body": "How you live is yours to decide. At the dinner table or at work, your choice deserves respect."
+        "body": "How you live is yours to decide."
       },
       {
         "title": "Healthy living",
-        "body": "Sleep a little earlier, walk a little more, drink a little less. Small changes count — at your own pace."
+        "body": "Every small change counts, at your own pace."
       },
       {
         "title": "Mutual respect",
-        "body": "We respect everyone's choices, and hope ours are respected too. No judging here — only encouragement."
+        "body": "No judging, no preaching — only encouragement."
       }
     ]
   },
@@ -66,11 +66,11 @@
   "membership": {
     "eyebrow": "Your card",
     "title": "Show your choice.",
-    "body": "Pick the way you want to live — alcohol-free, early nights, running, or a goal of your own — and get a personal card to share. Your post might encourage someone who wants the same.",
+    "body": "Pick the habits you want to keep, get your own card, and share it.",
     "points": [
-      "Free, forever — no payment, ever",
-      "A nickname is enough — no sign-up, no real name",
-      "Your details stay on your own device"
+      "Free to join",
+      "Just a nickname — no sign-up",
+      "Your details stay on your device"
     ],
     "cta": "Make my card",
     "sampleName": "Alex Rivera"
@@ -78,31 +78,31 @@
   "community": {
     "eyebrow": "Community",
     "title": "This belongs to everyone",
-    "body": "Open Life Alliance is open source. The website, the designs, the words — all made by volunteers around the world. Anyone can suggest ideas, translate, or write code.",
+    "body": "It's open source — anyone can help.",
     "items": [
       {
         "title": "Translate",
-        "body": "Bring the alliance to your language. Each language is a single file."
+        "body": "Bring it to your language."
       },
       {
         "title": "Build",
-        "body": "Improve the website and card maker on GitHub."
+        "body": "Improve the site on GitHub."
       },
       {
         "title": "Design",
-        "body": "Create new card styles, illustrations and layouts."
+        "body": "Create new card styles."
       },
       {
-        "title": "Spread the word",
-        "body": "Share your card. One post might encourage someone near you to start too."
+        "title": "Share",
+        "body": "Post your card, encourage others."
       }
     ],
     "cta": "Get involved on GitHub"
   },
   "support": {
     "eyebrow": "Support the mission",
-    "title": "The best support? Bring a friend.",
-    "body": "We don't take donations, and we will never sell membership. If you believe in this, share your card or invite one friend to join. If we ever accept voluntary support, we will publish exactly where every cent goes.",
+    "title": "Help it go further",
+    "body": "Joining and your basic card are free. Later we may welcome voluntary donations, or offer special badge designs and merchandise. Any income will go to running and growing the project, and will be reported openly. For now, the best support is sharing your card.",
     "cta": "Follow the project on GitHub"
   },
   "disclaimer": "Open Life Alliance is an independent, community-driven initiative. Membership represents voluntary support for its principles and does not constitute government, medical, religious, or legal certification.",
@@ -345,7 +345,7 @@
     "sections": [
       {
         "title": "Voluntary membership",
-        "body": "Membership is free and voluntary. It expresses support for our principles. It does not require you to have quit smoking or drinking, and it does not ask you to promise that you never will."
+        "body": "Joining is free and voluntary. It expresses support for our principles. It does not require you to have quit smoking or drinking, and it does not ask you to promise that you never will. Any future paid extras (such as special badge designs or merchandise) will be optional and will never be required to join."
       },
       {
         "title": "Not a certification",

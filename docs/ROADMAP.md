@@ -31,5 +31,7 @@
 
 ## V4 — Global organization
 
-- Open governance, regional chapters, transparent finances, voluntary donations,
+- Voluntary donations and optional paid extras (special badge designs, merchandise), with
+  open financial reporting
+- Open governance, regional chapters, transparent finances,
   evaluation of a formal legal entity
